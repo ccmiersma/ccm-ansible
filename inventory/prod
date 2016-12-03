@@ -1,3 +1,11 @@
 [dns]
 lxc-host.home.miersma.ca
 vm-host.home.miersma.ca
+
+[lxc_guests]
+lxc-ca-01.home.miersma.ca
+lxc-www-02.home.miersma.ca
+lxc-www-03.home.miersma.ca
+
+[lxc_host]
+lxc-host.home.miersma.ca
